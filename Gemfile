@@ -31,7 +31,7 @@ group :development, :test do
 end
 gem 'pg', '~> 1.1.4'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
